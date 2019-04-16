@@ -1,5 +1,5 @@
 
-## Embed QS CHARTS IN TO YOUR SALESFORCE PAGES IN FEW MINUTES WITH NO CODE
+## Embed QS Charts In To Salesforce Pages In Few Minutes with No Code.
 
 Embed Qliksense content into standard Saleforce account & opportunity pages (not Lightning) without any technical work in few mins. 
 
