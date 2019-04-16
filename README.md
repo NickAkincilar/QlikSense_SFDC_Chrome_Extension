@@ -30,8 +30,8 @@ This extension works by extracting Acct & Opp ID values from the rendered SFDC p
 
 1.  Enter the Qliksense server name & virtual proxy name (if any)
 2.  Enter the root URL of the SFDC site so it does not inject charts in to other instances.
-3.  Fill in App & ChartID values for Account and/or Opportunity Sections.
-4.  App & Opp FieldNames are the actual field names within those Qlik Apps that contain the SFDC Account & Opp id values for proper filtering of the charts.
+3.  Fill in the App & ChartID values for Account and/or Opportunity Sections where you can obtain via Devhub \ Single Configurator.
+4.  Account & Opportunity FieldNames are the actual field names used within the Qlik Apps that contain the SFDC Account & Opp id values for proper filtering of the charts.
 5.  Click  **SAVE**  button. (_Saving the configuration will update the Settings JSON string that you can send others to share_)
 6.  That's it!  
       
