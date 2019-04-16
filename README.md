@@ -37,7 +37,8 @@ This extension works by extracting Acct & Opp ID values from the rendered SFDC p
       
  ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/Settings.jpg?raw=true)    
 
-You can also **import or export an existing configuration**  using  **Import Settings**  button. Just paste the configuration JSON string in to the box and click on  **IMPORT**  &  **SAVE**. It will preconfigure all the fields for you. 
+## IMPORTING & EXPORTING CONFIGURATION SETTINGS
+You can **import or export an existing configuration** using  **Import Settings**  section. Just paste the configuration JSON string in to the input box then click on  **IMPORT**  &  **SAVE**. It will preconfigure all the fields for you. 
 
-If you manually configure all the settings, you can hit the **SAVE** button which will overwrite the JSON string in the settings textbox. You can copy this JSON string and share with others to replicate the same configuration where they can paste & import it.
+To export an existing configuration, click the **SAVE** button which will overwrite the JSON string in the settings textbox. You can copy this JSON string and share with others to replicate the same configuration where they can paste & import it.
 
