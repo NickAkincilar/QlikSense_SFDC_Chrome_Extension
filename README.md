@@ -7,7 +7,7 @@ This extension works by extracting Acct & Opp ID values from the rendered SFDC p
 
 ## HOW TO INSTALL
 
-1.  Download & Unzip the following file. **[QlikPopUps_Chrome_Extension.zip](https://confluence.qliktech.com/download/attachments/156501595/QlikPopUps_Chrome_Extension.zip?version=1&modificationDate=1555360077237&api=v2)**
+1.  Download & Unzip the following file. **[QlikPopUps_Chrome_Extension.zip](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/raw/master/QlikPopUps_Chrome_Extension.zip)**
 2.  Open chrome browser and navigate to this link: chrome://extensions/
 3.  Enable **Developer Mode**
     
