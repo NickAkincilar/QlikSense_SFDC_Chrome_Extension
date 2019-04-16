@@ -15,12 +15,12 @@ This extension works by extracting Acct & Opp ID values from the rendered SFDC p
     
 4.  Click on **LOAD UNPACKED** and choose the **folder** that you unzipped the extension.
     
-    ![](https://confluence.qliktech.com/download/attachments/156501595/image2019-3-9_0-51-36.png?version=1&modificationDate=1555360040573&api=v2&effects=drop-shadow)
+    ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/LoadUnpacked.jpg?raw=true)
     
 5.  You can now **DISABLE** the **DEVELOPER MODE**
     
 6.  That's it. You should now see a SFDC/Qlik Icon that you can use to embed Charts in to standard Salesforce pages !!  
-    ![](https://confluence.qliktech.com/download/attachments/156501595/image2019-4-15_16-29-36.png?version=1&modificationDate=1555360176390&api=v2&effects=drop-shadow)
+    ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/Options.jpg?raw=true)
     
 
   
