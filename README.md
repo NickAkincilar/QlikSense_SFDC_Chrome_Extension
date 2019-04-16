@@ -7,7 +7,7 @@ Resulting charts will automatically display on every SFDC Account & Opp page and
 
 This extension works by extracting Acct & Opp ID values from the SFDC HTML content and then injecting dynamic QS Iframe links directly in to the page's HTML code.
 
-  
+***This chrome extension is a work in progress and needs to be installed from a local drive vs. Chrome market hence will give you a warning every time you restart your chrome browser.***  
 
 ## HOW TO INSTALL
 
