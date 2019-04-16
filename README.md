@@ -27,15 +27,15 @@ This extension works by extracting Acct & Opp ID values from the rendered SFDC p
 
 ## HOW TO CONFIGURE
 
+1.  Right click on the newly created Qlik Icon on your Chrome browser toolbar and choose **OPTIONS**.
+2.  Enter the Qliksense server name & virtual proxy name (if any)
+3.  Enter the root URL of the SFDC site so it does not inject charts in to other instances.
+4.  Fill in the App, ChartID & Chart width values for Account and/or Opportunity Sections where you can obtain via Devhub \ Single Configurator.
+5.  Account & Opportunity FieldNames are the actual field names used within the Qlik Apps that contain the SFDC Account & Opp id values for proper filtering of the charts.
+6.  Click  **SAVE**  button. (_Saving the configuration will update the Settings JSON string that you can send others to share_)
+7.  That's it!  
 
-1.  Enter the Qliksense server name & virtual proxy name (if any)
-2.  Enter the root URL of the SFDC site so it does not inject charts in to other instances.
-3.  Fill in the App, ChartID & Chart width values for Account and/or Opportunity Sections where you can obtain via Devhub \ Single Configurator.
-4.  Account & Opportunity FieldNames are the actual field names used within the Qlik Apps that contain the SFDC Account & Opp id values for proper filtering of the charts.
-5.  Click  **SAVE**  button. (_Saving the configuration will update the Settings JSON string that you can send others to share_)
-6.  That's it!  
 
-Options Screen
  ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/Settings.jpg?raw=true)   
  
  ## HOW IT WORKS
