@@ -9,6 +9,8 @@ This extension works by extracting Acct & Opp ID values from the SFDC HTML conte
 
 ***This chrome extension is a work in progress and needs to be installed from a local drive vs. Chrome market hence will give you a warning every time you restart your chrome browser.***  
 
+
+
 ## HOW TO INSTALL
 
 1.  Download & Unzip the following file. **[QlikPopUps_Chrome_Extension.zip](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/raw/master/QlikPopUps_Chrome_Extension.zip)**
