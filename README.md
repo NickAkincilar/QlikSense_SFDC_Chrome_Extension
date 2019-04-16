@@ -34,7 +34,8 @@ This extension works by extracting Acct & Opp ID values from the rendered SFDC p
 4.  Account & Opportunity FieldNames are the actual field names used within the Qlik Apps that contain the SFDC Account & Opp id values for proper filtering of the charts.
 5.  Click  **SAVE**  button. (_Saving the configuration will update the Settings JSON string that you can send others to share_)
 6.  That's it!  
-      
+
+Options Screen
  ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/Settings.jpg?raw=true)   
  
  ## HOW IT WORKS
