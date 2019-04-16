@@ -30,12 +30,19 @@ This extension works by extracting Acct & Opp ID values from the rendered SFDC p
 
 1.  Enter the Qliksense server name & virtual proxy name (if any)
 2.  Enter the root URL of the SFDC site so it does not inject charts in to other instances.
-3.  Fill in the App & ChartID values for Account and/or Opportunity Sections where you can obtain via Devhub \ Single Configurator.
+3.  Fill in the App, ChartID & Chart width values for Account and/or Opportunity Sections where you can obtain via Devhub \ Single Configurator.
 4.  Account & Opportunity FieldNames are the actual field names used within the Qlik Apps that contain the SFDC Account & Opp id values for proper filtering of the charts.
 5.  Click  **SAVE**  button. (_Saving the configuration will update the Settings JSON string that you can send others to share_)
 6.  That's it!  
       
- ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/Settings.jpg?raw=true)    
+ ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/Settings.jpg?raw=true)   
+ 
+ ## HOW IT WORKS
+ 
+ Once you save the configuration options, simply navigate to your standard salesforce page(not lighting version) and open an account or an opportunity where you know those SFDC ID values exist in your QlikSense app and you have corresponding data & charts for them. If the configuration is correct, you should see your charts properly filtered to the SFDC entity you are viewing at the bottom of the SFDC pages.
+ 
+ 
+ ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/SFDC.png?raw=true)   
 
 ## IMPORTING & EXPORTING CONFIGURATION SETTINGS
 You can **import or export an existing configuration** using  **Import Settings**  section. Just paste the configuration JSON string in to the input box then click on  **IMPORT**  &  **SAVE**. It will preconfigure all the fields for you. 
