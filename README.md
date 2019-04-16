@@ -1,5 +1,5 @@
 
-Embed Qliksense content into Saleforce account & opportunity pages without any technical work in few mins. 
+Embed Qliksense content into standard Saleforce account & opportunity pages (not Lightning) without any technical work in few mins. 
 
 This simple Chrome Extension will allow any SFDC user to be able to embed upto 4 charts of their choice from any QS app directly in to SFDC Account & Opportunity pages. No admin or configuration required on the Salesforce side. All you need is QlikSense App(s) that contains SFDC Account and/or Opportunity Id values within the data model so the extension can properly filter the data.
 
