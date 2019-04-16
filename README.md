@@ -56,3 +56,4 @@ You can **import or export an existing configuration** using  **Import Settings*
 
 To export an existing configuration, click the **SAVE** button which will overwrite the JSON string in the settings textbox. You can copy this JSON string and share with others to replicate the same configuration where they can paste & import it.
 
+ ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/Import.jpg?raw=true) 
