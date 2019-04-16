@@ -1,7 +1,11 @@
 
-Embed Qliksense content into Saleforce account & opportunity pages without any technical work in few mins. IDs that you would like to embed specific charts in to your Salesforce pages?  where  customers that would like to embed Qlik in to SFDC but haven't done so because they think it is too complex or they don't want to mess with SFDC configurations? This simple Chrome Extension will allow any SFDC user to be able to embed upto 4 charts from any app directly in to SFDC Account & Opportunity pages. No admin or configuration required on the Salesforce side. All you need is QlikSense App(s) that contains SFDC Account and/or Opportunity Id values within the data model so the extension can properly filter the data.
+Embed Qliksense content into Saleforce account & opportunity pages without any technical work in few mins. 
 
-This extension works by extracting Acct & Opp ID values from the rendered SFDC page and then injecting dynamic QS Iframe links in to standard SFDC pages directly in to the page's HTML code.
+This simple Chrome Extension will allow any SFDC user to be able to embed upto 4 charts of their choice from any QS app directly in to SFDC Account & Opportunity pages. No admin or configuration required on the Salesforce side. All you need is QlikSense App(s) that contains SFDC Account and/or Opportunity Id values within the data model so the extension can properly filter the data.
+
+Resulting charts will automatically display on every SFDC Account & Opp page and filter based on the account or opp id currently being viewed.
+
+This extension works by extracting Acct & Opp ID values from the SFDC HTML content and then injecting dynamic QS Iframe links directly in to the page's HTML code.
 
   
 
