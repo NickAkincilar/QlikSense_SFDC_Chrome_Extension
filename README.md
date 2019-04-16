@@ -11,7 +11,7 @@ This extension works by extracting Acct & Opp ID values from the rendered SFDC p
 2.  Open chrome browser and navigate to this link: chrome://extensions/
 3.  Enable **Developer Mode**
     
-    ![](https://confluence.qliktech.com/download/attachments/156501595/image2019-3-9_0-49-30.png?version=1&modificationDate=1555360040547&api=v2&effects=drop-shadow)
+    ![](https://github.com/NickAkincilar/QlikSense_SFDC_Chrome_Extension/blob/master/DeveloperMode.jpg?raw=true)
     
 4.  Click on **LOAD UNPACKED** and choose the **folder** that you unzipped the extension.
     
